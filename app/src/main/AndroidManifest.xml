@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.signup">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".G"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/daxxx"
+        android:label="MEDLIST"
+        android:roundIcon="@mipmap/daxxx_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SignUp"
+        tools:targetApi="31">
+        <activity
+            android:name=".vaccination"
+            android:exported="false" />
+        <activity
+            android:name=".DashboardScreen"
+            android:exported="false" />
+        <activity
+            android:name=".STATUS"
+            android:exported="false" />
+        <activity
+            android:name=".ComplainAcitivty"
+            android:exported="false" />
+        <activity
+            android:name=".Complain"
+            android:exported="false" />
+        <activity
+            android:name=".Fullscreenimage"
+            android:exported="false" />
+        <activity
+            android:name=".OxygenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SugarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KHOON"
+            android:exported="false" />
+        <activity
+            android:name=".FinalHospital"
+            android:exported="false" />
+        <activity
+            android:name=".beds_home"
+            android:exported="false" />
+        <activity
+            android:name=".meds_home"
+            android:exported="false" />
+        <activity
+            android:name=".CityToHospital"
+            android:exported="false" />
+        <activity
+            android:name=".yeeeeeeeeeeeeeeeeeeeeeeeee"
+            android:exported="false" />
+        <activity
+            android:name=".adddcaata"
+            android:exported="false" />
+        <activity
+            android:name=".Splash_Screen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Other"
+            android:exported="false" />
+        <activity
+            android:name=".Sugar"
+            android:exported="false" />
+        <activity
+            android:name=".BP"
+            android:exported="false" />
+        <activity
+            android:name=".Oxy"
+            android:exported="false" />
+        <activity
+            android:name=".StateOn"
+            android:exported="false" />
+        <activity
+            android:name=".city"
+            android:exported="false" />
+        <activity
+            android:name=".States"
+            android:exported="false" />
+        <activity
+            android:name=".Vitals"
+            android:exported="false" />
+        <activity
+            android:name=".All_Hospital_list"
+            android:exported="false" />
+        <activity
+            android:name=".Hhomescreen"
+            android:exported="false" />
+        <activity
+            android:name=".show"
+            android:exported="false" />
+        <activity
+            android:name=".upd"
+            android:exported="false" />
+        <activity
+            android:name=".scannerView"
+            android:exported="false" />
+        <activity
+            android:name=".scan_page"
+            android:exported="false" />
+        <activity
+            android:name=".home_screen"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".Signuppage"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

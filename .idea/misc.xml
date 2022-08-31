@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable-v24/box.xml" value="0.242" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable-v24/boxIcon.xml" value="0.242" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable-v24/ic_baseline_local_hospital_24.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_add_photo_alternate_24.xml" value="0.2365" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.242" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.149" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_home_work_24.xml" value="0.149" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_king_bed_24.xml" value="0.18" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml" value="0.149" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_location_city_24.xml" value="0.149" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.223" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.262" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout-v28/activity_adddata.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout-v28/activity_main.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout-v28/dialogcontent.xml" value="0.176" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout-v28/singlerow.xml" value="0.136" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout-w1240dp/activity_other.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout-w936dp/activity_other.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_adddata.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_all_hospital_list.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_beds_home.xml" value="0.15625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_bp.xml" value="0.191015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_city.xml" value="0.2015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_city_to_hospital.xml" value="0.16597222222222222" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_final_hospital.xml" value="0.176" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_ha_main.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_hhomescreen.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_home_screen.xml" value="0.176" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_login_page.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_main.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_main2.xml" value="0.176" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_meds_home.xml" value="0.15625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_other.xml" value="0.2015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_other2.xml" value="0.2015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_oxy.xml" value="0.15625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_qr_generator.xml" value="0.15625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_scan_page.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_scanner_view.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_show.xml" value="0.1652027027027027" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_signuppage.xml" value="0.152" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_state_on.xml" value="0.2015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_states.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_sugar.xml" value="0.15625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_upd.xml" value="0.176" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_upload.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_upload_pg.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_vitals.xml" value="0.176" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/activity_yeeeeeeeeeeeeeeeeeeeeeeeee.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/blood_recycler.xml" value="0.2015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/cityitem.xml" value="0.152" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/dailogcontent.xml" value="0.1" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/findetails.xml" value="0.152" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/fragment_blood.xml" value="0.28013029315960913" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/header.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/item.xml" value="0.16" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/meds_item.xml" value="0.264" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/record_state.xml" value="0.2" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/recorditem.xml" value="0.16" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/singlerow.xml" value="0.10400000000000001" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/layout/toolbar.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/menu/main_menu.xml" value="0.17432432432432432" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/menu/search_menu.xml" value="0.2015625" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/mipmap-anydpi-v26/Daxx.xml" value="0.2365" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/mipmap-anydpi-v26/daxaab.xml" value="0.2365" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/mipmap-anydpi-v26/daxaab_round.xml" value="0.2365" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2365" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/mipmap-anydpi-v26/ic_launcherr.xml" value="0.2365" />
+        <entry key="..\:/Users/syed kaif/Desktop/SignUp/app/src/main/res/mipmap-anydpi-v26/ic_launcherr_round.xml" value="0.2365" />
+        <entry key="app/src/main/res/layout/activity_all_hospital_list.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_beds_home.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_blank_beds.xml" value="0.1543918918918919" />
+        <entry key="app/src/main/res/layout/activity_bp.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.16153846153846155" />
+        <entry key="app/src/main/res/layout/activity_khoon.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_oxy.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_oxygen.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_scanner_view.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_show.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_sos.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/activity_vitals.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/beds_item.xml" value="0.16317567567567567" />
+        <entry key="app/src/main/res/layout/findetails.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/khoonitem.xml" value="0.16153846153846155" />
+        <entry key="app/src/main/res/layout/oxyitem.xml" value="0.1625" />
+        <entry key="app/src/main/res/menu/search_menu.xml" value="0.16317567567567567" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

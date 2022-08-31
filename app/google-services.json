@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725827395111",
+    "firebase_url": "https://qrproject-12935-default-rtdb.firebaseio.com",
+    "project_id": "qrproject-12935",
+    "storage_bucket": "qrproject-12935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725827395111:android:33c15e059a6d98224af802",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725827395111-tt7f0fi84nn15m0q8m0fp5597vueru4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpTAFQuHEPghO21TpJGwjeqkQov5nklw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725827395111-tt7f0fi84nn15m0q8m0fp5597vueru4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
